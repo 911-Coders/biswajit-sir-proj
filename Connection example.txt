@@ -1,0 +1,7 @@
+• Driver Class: oracle.jdbc.driver.OracleDriver
+• Connection URL: jdbc:oracle:thin:@localhost:1521/FREEPDB1
+• Username: SYSTEM
+• Password: oracle
+
+
+sqlplus system/oracle@FREEPDB1
